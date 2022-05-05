@@ -1,0 +1,6 @@
+module Pods_vector_icons_vector_iconsTests {
+  umbrella header "Pods-vector_icons-vector_iconsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
